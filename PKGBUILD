@@ -3,8 +3,8 @@
 
 _gitname=kodi-addon-screensaver-pyro
 pkgname="$_gitname-git"
-_commit=00603e5
-pkgver=20170529.00603e5
+_commit=97e997e
+pkgver=20170615.97e997e
 pkgrel=1
 pkgdesc="Pyro screensaver for Kodi"
 arch=('i686' 'x86_64')
